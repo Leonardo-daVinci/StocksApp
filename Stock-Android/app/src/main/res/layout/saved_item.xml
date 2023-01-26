@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:paddingBottom="8dp"
+    android:layout_height="wrap_content">
+
+    <View
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#dddee0"
+        android:layout_width="wrap_content"
+        android:layout_height="1dp"/>
+
+    <TextView
+        android:id="@+id/saved_ticker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="TSLA"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/saved_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="48dp"
+        android:text="$100.00"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/saved_shares"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="3 shares"
+        app:layout_constraintStart_toStartOf="@+id/saved_ticker"
+        app:layout_constraintTop_toBottomOf="@+id/saved_ticker" />
+
+    <TextView
+        android:id="@+id/saved_change"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="$2 (5%)"
+        app:layout_constraintEnd_toEndOf="@+id/saved_price"
+        app:layout_constraintTop_toBottomOf="@+id/saved_price" />
+
+    <ImageView
+        android:id="@+id/saved_change_img"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/saved_change"
+        app:layout_constraintEnd_toStartOf="@+id/saved_change"
+        app:layout_constraintTop_toTopOf="@+id/saved_change"
+        app:srcCompat="@drawable/ic_trending_up" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="@+id/saved_change"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/saved_price"
+        app:layout_constraintTop_toTopOf="@+id/saved_price"
+        app:srcCompat="@drawable/ic_arrow_left" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

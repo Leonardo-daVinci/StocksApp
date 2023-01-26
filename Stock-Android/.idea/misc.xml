@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3715" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/chart_line.xml" value="0.1" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/clock_time_three.xml" value="0.1" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/congrats_bg.xml" value="0.3715" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3715" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/ic_trending_down.xml" value="0.1" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/ic_trending_up.xml" value="0.1" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/share_bg.xml" value="0.149" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/drawable/splash_screen.xml" value="0.2765" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/activity_details.xml" value="0.27898550724637683" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/activity_home.xml" value="0.35220994475138123" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/activity_main.xml" value="0.37083333333333335" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/congrats.xml" value="0.3207207207207207" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/fragment_history.xml" value="0.16" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/fragment_recent.xml" value="0.15633245382585753" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/news_item.xml" value="0.5" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/news_item_special.xml" value="0.33" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/news_share.xml" value="0.2" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/saved_item.xml" value="0.5" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/section_chart_one.xml" value="0.25" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/section_chart_two.xml" value="0.1585014409221902" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/section_news.xml" value="0.3207207207207207" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/section_psai.xml" value="0.5" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/section_topinfo.xml" value="0.75" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/share_bg.xml" value="0.13425925925925927" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/layout/trade.xml" value="0.28425925925925927" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/menu/detail_toolbar.xml" value="0.27685185185185185" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/menu/home_toolbar.xml" value="0.33" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3715" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1985" />
+        <entry key="..\:/Study/USC/2-WebTech/Assignments/Web-Projects/Stock-Android/app/src/main/res/xml/searchable.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
